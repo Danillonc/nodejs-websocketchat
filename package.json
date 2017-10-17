@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Danillonc/nodejs-websocketchat/issues"
   },
-  "homepage": "https://github.com/Danillonc/nodejs-websocketchat#readme"
+  "homepage": "https://github.com/Danillonc/nodejs-websocketchat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.2",
+    "express": "^4.16.2",
+    "express-validator": "^4.2.1"
+  }
 }
