@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-websocketchat",
+  "version": "1.0.0",
+  "description": "This repository is for nodejs project using websocket chat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danillonc/nodejs-websocketchat.git"
+  },
+  "author": "danillo coradello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danillonc/nodejs-websocketchat/issues"
+  },
+  "homepage": "https://github.com/Danillonc/nodejs-websocketchat#readme"
+}
